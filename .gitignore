@@ -1,0 +1,4 @@
+/env_blog
+/db.sqlite
+manage.py
+./api/migrations
